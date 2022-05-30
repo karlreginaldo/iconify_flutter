@@ -20,7 +20,7 @@ class Iconify extends StatelessWidget {
     this.icon, {
     Key? key,
     this.color,
-    this.size = 24,
+    this.size = 18,
   }) : super(key: key);
 
   @override
